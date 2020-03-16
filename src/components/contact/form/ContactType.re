@@ -1,0 +1,17 @@
+type contactType = {
+  title: DropdownType.dropdownOption,
+  firstName: string,
+  lastName: string,
+  account: string,
+  company: string,
+  phone: string,
+  fax: string,
+  companyTitle: string,
+  email: string,
+  emailOp: string,
+  street: string,
+  city: string,
+  state_: DropdownType.dropdownOption,
+  postcode: string,
+  description: string,
+};

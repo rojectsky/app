@@ -1,0 +1,1 @@
+type stateType = {contact: ContactType.contactType};
