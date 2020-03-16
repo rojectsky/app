@@ -31,8 +31,8 @@ yarn test
     --bindings      * node module bindings
     --components    * components
         --base      * common components
-        --contact    * business componet - contact
+        --contact   * business componet - contact
 --test              * jest test cases  
 ```
 
-####About test failure: Getting issues with bs-jest & jest due to some babel script transformation
+##### About test failure: Getting issues with bs-jest & jest due to some babel script transformation
