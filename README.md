@@ -2,7 +2,7 @@
 
 ### Description
 
-First application using [ReasonReact](https://reasonml.github.io/reason-react/), [Bucklescript](https://bucklescript.github.io) and [Next.js](https://nextjs.org) 
+First application using [ReasonReact](https://reasonml.github.io/reason-react/), [Bucklescript](https://bucklescript.github.io) and [Next.js](https://nextjs.org) -  amazing stack!! 
 ### Setup
 
 
